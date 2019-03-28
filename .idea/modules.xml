@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.mschmidl.eureka-server.iml" filepath="$PROJECT_DIR$/.idea/modules/com.mschmidl.eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.mschmidl.eureka-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.mschmidl.eureka-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.mschmidl.eureka-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.mschmidl.eureka-server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.mschmidl.hello-service.iml" filepath="$PROJECT_DIR$/.idea/modules/com.mschmidl.hello-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.mschmidl.hello-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.mschmidl.hello-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.mschmidl.hello-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.mschmidl.hello-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.mschmidl.microservice.iml" filepath="$PROJECT_DIR$/.idea/modules/com.mschmidl.microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.mschmidl.microservice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.mschmidl.microservice.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.mschmidl.microservice.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.mschmidl.microservice.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.mschmidl.zuul.iml" filepath="$PROJECT_DIR$/.idea/modules/com.mschmidl.zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.mschmidl.zuul.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.mschmidl.zuul.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.mschmidl.zuul.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.mschmidl.zuul.test.iml" />
+    </modules>
+  </component>
+</project>
